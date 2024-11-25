@@ -1,0 +1,77 @@
+
+Documentation Feedback ~ Deliverable #4
+Software Design Document ~ Detailed Design
+CMSI 4071 Fall 2024
+==========================================
+
+DETAILED CSC AND CSU DESCRIPTIONS:
+   Well done on this section ~ nothing to add here.
+
+DETAILED CLASS DESCRIPTIONS:
+   No class descriptions provided, per the web page specifications.
+   However, the previous section is complete enough to cover both sections
+   of the document.
+
+DETAILED INTERFACE DESCRIPTIONS:
+   Well done on this section ~ nothing to add here.
+
+DETAILED DATA STRUCTURE DESCRIPTIONS:
+   Well done on this section ~ nothing to add here.
+
+DETAILED DESIGN DIAGRAMS:
+   None provided.
+
+DATABASE DESIGN AND DESCRIPTION:
+   None provided.
+
+----------------------------------------------
+OVERALL ASSESSMENT:
+   Category                          Points
+   CSC/CSU Descriptions:                2 of  2
+   Class Descriptions:                  3 of  3
+   Interface Descriptions:              3 of  3
+   Data structure Descriptions:         1 of  1
+   Design diagrams:                     0 of  4
+   Database design/descriptions:        0 of  2
+                                     ===========
+   Subtotal                             9 of 15
+   ------------------------------------------------------
+   Total Percentage:  9/15 = 60% which is passing
+
+======
+I see you have filled out the architectural design section as well for this
+submission ~ good!  There are some sections that are a bit light on content,
+and here is the revised evaluation:
+
+SDD: ARCHITECTURAL DESIGN SECTION:
+   Major software components section
+      You need more description of what each of these components is for.  It
+      is supposed to be a listing with a brief description of each item.
+
+   Major software interactions section
+      This is also supposed to have at least a *little* more detail than a
+      simple list.
+
+   Architectural design diagrams section
+      This is the best part of the architectural section, although the label
+      of each diagram doesn't stay with the diagram itself.  You should try
+      to get that to work on your next effort.  Also, the labels are not the
+      actual type of the diagram.  Both of your drawings are really more of
+      a 'data flow' diagram.  A 'use case' diagram is something specific as
+      you can see from my web page or from an Internet search for "Use case
+      diagram".  Here's an example:
+
+      https://www.geeksforgeeks.org/use-case-diagram/
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   --------------------------------  ---------
+   ARCHITECTURAL DESIGN SECTION:
+   Major software components          1.5 of  2
+   Major software interactions        1.5 of  2
+   Architectural design diagrams        6 of  6
+                                     ===========
+   Subtotal                             9 of 10
+   ------------------------------------------------------
+   Total Percentage:  0/10 = 00% which is not the greatest...
+
