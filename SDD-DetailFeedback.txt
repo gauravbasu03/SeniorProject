@@ -73,5 +73,4 @@ OVERALL ASSESSMENT:
                                      ===========
    Subtotal                             9 of 10
    ------------------------------------------------------
-   Total Percentage:  0/10 = 00% which is not the greatest...
-
+   Total Percentage:  9/10 = 90% which is an A-minus
